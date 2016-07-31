@@ -1,3 +1,3 @@
 # My First Project
 
-This is a sample git repitory containing some sample files.
+This is a sample git repository containing some sample files.
